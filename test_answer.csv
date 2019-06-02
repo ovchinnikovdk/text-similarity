@@ -1,0 +1,517 @@
+,test_id,same_security,data
+0,0,True,semtech corpsemtech corporation
+1,1,True,vanguard mid cap indexvanguard midcap index - a
+2,2,True,spdr gold trust gold sharesspdr gold trust spdr gold shares
+3,3,False,vanguard total bond index admvanguard total bond market index
+4,4,True,oakmark international fund class ioakmark international cl i
+5,5,True,pfizer inc div: 1.200pfizer inc com
+6,6,False,spartan global ex us index fid adv clsptn glb xus idx adv
+7,7,False,vanguard total bond market idx-admvanguard total bond market index fund investor shares
+8,8,True,banco latinoamericano de exportacio class e com stk npvbanco latinoamericano come-e
+9,9,True,baidu inc fadr adr reps 0.1 ord shsbaidu inc spons ads repr 0.10 ord cls a us0.00005
+10,10,True,whole foods marketwhole foods markets inc div: 0.540
+11,11,True,walgreens boots alliance inc comwalgreens boots alli
+12,12,True,diageo plc new gb spon adrdiageo p l c spon adr new
+13,13,True,guggenheim bulletshares 2016guggenheim bulletshares 2016 high yield
+14,14,False,vanguard small-cap index admvanguard small-cap index fund inst
+15,15,True,emerging marketsvanguard ftse emerging marke
+16,16,True,spdr s&p 500 etf ivs&p 500 index spdr
+17,17,True,tegna inc comtegna inc
+18,18,True,deere & companydeere co
+19,19,True,vanguard mid-cap indexvanguard mid-cap index fund institutional plus shares
+20,20,True,jpmorgan chase & co div: 1.760jpmorgan chase & co
+21,21,True,american funds europacific growth fund - r6af europac growth r6
+22,22,False,vanguard total bond market idx-admvang tot bd mk is pl
+23,23,True,unitedhealth gp inc div: 2.000unitedhealth group incorporated
+24,24,True,american intl group inc warrant 01/19/2021american intl gro 21 wtswarrants exp 01/19/21
+25,25,True,fifth street finance corp comfifth street financial corp com
+26,26,True,ishares jpm embi global coreishares jpm usd emrg mkt bnd etf
+27,27,True,metwest tot rtn bd mmetropolitan west tot ret bond
+28,28,True,exelixis inc comexelixis inc
+29,29,True,glenmede large cap gwthglenmede large cap growth
+30,30,True,af europac growth r6american funds europacific growth r6
+31,31,True,dreamworks animation skg cl adreamworks animation skg inc cl a
+32,32,True,dfa us small cap value port instldfa u s small cap value cl i
+33,33,False,vanguard ltd-trm t/e admvanguard limited-term tax-exempt fund
+34,34,True,ishares trust msci united kingdom etfishares msci u k etf shs
+35,35,False,pimco total return cl apimco total return fund adm
+36,36,True,amg yacktman fund service classamg yacktman service
+37,37,False,vanguard intermediate-term treasury fund admiral sharesvang intm treas adm
+38,38,False,pimco incm cl dpimco fds income instl
+39,39,True,vanguard growth index fund investor sharesvang growth idx adm
+40,40,True,vanguard mid cap indexvanguard mid-cap index fund admiral shares
+41,41,False,vanguard value index fund institutional sharesvanguard value index inv
+42,42,True,vanguard target retirement 2060 fundvanguard tgt rtrmnt 2060
+43,43,True,netflix incnetflix inc.
+44,44,True,cisco sys inc comcisco sys inc
+45,45,False,pimco income fund cl ppimco income fd i
+46,46,True,united parcel service-cl bunited parcel svc inc cl b
+47,47,True,michael kors holdings ltd com npvmichael kors hldgs ltd
+48,48,True,alaska air group inc comalaska air group inc
+49,49,False,vanguard total bond market index admvanguard ttl bnd mrk indx inst
+50,50,False,vanguard intermediate-term investment-grade fund admiral sharesvanguard intermediate term inv gr fd inv cl
+51,51,True,oppenhmr develpng mkts yoppenheimer developing markets cl y
+52,52,True,texas instrs incorporatedtexas instruments inc
+53,53,False,sptn intl index faispartan intl index fid adv class
+54,54,True,heartland pmt sys inc comheartland paymnt sys
+55,55,False,vanguard total bond market index fund institutional sharesvanguard total bond market index
+56,56,False,ariel fund invariel fund
+57,57,True,flir sys incflir systems inc
+58,58,False,pimco income fund cl dpimco income instl
+59,59,False,vanguard shortterm investgrade admvanguard shrt trm invmnt grd-inv
+60,60,True,bristol myers squibb companybristol myers squibb co
+61,61,True,metlife incmetlife incorporated div: 1.500
+62,62,True,nxp semiconductors n v comnxp semiconductors nv
+63,63,True,novo nordisk a/s-adr nvorepstg 1/2 cl b shnovo-nordisk a-s fadr adr reps ord shs
+64,64,False,vanguard total bond market index fund institutional sharesvanguard total bond market idx instl pls
+65,65,True,accenture ltd ordaccenture plc ireland
+66,66,False,pimco total ret fd instlpimco total return fund cl p
+67,67,False,pimco income apimco incm inst cl
+68,68,True,t. rowe price institutional large cap growtht. rowe price institutional large cap growth fund
+69,69,True,hsbc hldgs plc spons adr newhsbc hldgs plc spon adr new
+70,70,True,carnival corp ord (panama)carnival corp com
+71,71,True,baidu inc spons ads repr 0.10 ord cls a us0.00005baidu inc - spon adr
+72,72,True,vanguard mid-cap index fund institutional sharesvanguard mid cap index ins
+73,73,True,ishares iboxx $ invt grade corp bdishares iboxx ig corp bond
+74,74,True,ultimate software group incultimate software gp
+75,75,False,pimco income fund cl dpimco income a
+76,76,True,franklin income series cl afranklin incm fd cl a
+77,77,True,ormat technologies incormat technologies
+78,78,False,aqr mgd futures strat fd cl iaqr aqr mngd futures strategy i
+79,79,True,ishares russell midcap growthishares russell midcap g etf div: 0.903
+80,80,True,vanguard target retirement 2045 fundvang target ret 2045
+81,81,True,vanguard total intl stkvanguard total intl etf
+82,82,False,sptn inter treas bnd investor classsptn int tr idx adv
+83,83,True,artisan intl value fund invartisan international value
+84,84,True,"stag industrials, inc. comstag industrial inc com"
+85,85,True,parnassus endeavor fdparnassus endeavor fund investor shares
+86,86,True,johnson & johnson div: 3.000johnson & johnson jnj
+87,87,False,eaton vance floating rate fd cl aeaton vance bond fund cl i
+88,88,False,vanguard total bond index admvanguard ttl bnd mrk indx inst
+89,89,False,pimco total ret fd instlpimco total return fund - class r
+90,90,False,pimco total return fund cl dpimco tot return adm
+91,91,True,tivo inc comtidewater inc com new
+92,92,True,zimmer biomet hldgszimmer biomet holdings inc com
+93,93,True,ford mtr company del com par $0.01ford mtr co del com par $0.01
+94,94,True,guggenheim bullet shrs 2018 hi y c bd etfguggenheim bulletshares 2018
+95,95,True,apple inc comapple incorporated
+96,96,True,ishares jpm usd emr etfishares jpm usd emrg mkt bnd e tf
+97,97,True,edison international cmnedison intl
+98,98,True,conagra foods inc div: 1.000conagra foods inc
+99,99,True,advanced micro devicesadvanced micro devices inc
+100,100,True,american tower corporation reitamerican tower reit inc (hldg co) shs
+101,101,False,vang sm cap idx admvanguard small cap index fund
+102,102,False,vanguard short-term bond index fund investor sharesvanguard short-term bond index
+103,103,False,"vanguard small cap index, admvnguard index trust small cap idx instl"
+104,104,True,ishares jpm usd emrg mkt bnd e tfishares jpm embi global core
+105,105,False,blackrock strat income iblackrock strategic income opptys investor cl a
+106,106,True,ishares russell midcapishares russell mid-cap etf
+107,107,True,ishares core msci emg mkts etfharding loevner emerging mkts
+108,108,True,vanguard intl equity index fds ftse emerging mkts etfvanguard ftse emerging mark etf iv
+109,109,True,american funds europacfic r5american euro pac gr r5
+110,110,True,vanguard crsp us small cap ind exvanguard small cap etf
+111,111,True,delta air lines inc dela newdelta air lines inc. (de)
+112,112,True,ishares 20+ yr treasu bond etf div: 3.107ishares 20+ year treasury bo
+113,113,False,sptn glb xus idx faispartan global ex us index fid adv cl
+114,114,True,fidelity new insights ifidelity advisor new insights fund cl i
+115,115,True,ishares tr nat amt free bdishares tr natl mun bd etf fd
+116,116,False,vanguard small cap index admvanguard small-cap index fund institutional shares
+117,117,True,first eagle global fd cl afirst eagle global class a
+118,118,True,t rowe price mid cap growthmid-cap growth fund
+119,119,True,skyworks solutionsskyworks solutions inc com
+120,120,True,tile shop hldgs inctile shop hldg inc
+121,121,True,t. rowe price health sciencest rowe price health science fund inc
+122,122,True,coca-cola co/thecoca-cola company
+123,123,True,atwood oceanics inc comatwood oceanics inc.
+124,124,True,dodge & cox funds income funddodge & cox income fund n/l
+125,125,False,vanguard small cap index fundvnguard index trust small cap idx instl
+126,126,True,vanguard mid-cap value etfvanguard mid cap value etf
+127,127,True,american funds euro pacific growth r6am fnd europacfic grth r6
+128,128,True,wisdomtree intl smallcp dividend etfwisdomtree tr intl smallcap divid fd isin #us9 sedol #b17fg17
+129,129,True,boeing company cmnboeing company
+130,130,True,ishares msci emerging marketsharding loevner emerging mkts
+131,131,True,transocean ltd zug namen akttransocean ltd ord
+132,132,True,vanguard small-cap index fund admiral sharesvanguard small-cap index adm
+133,133,False,pimco total ret fd instlpimco total return fd cl c
+134,134,True,jpmorgan equity income fund cl ajpmorgan us equity fund - class r6
+135,135,True,energy sector index spdrenergy sector spdr etf
+136,136,True,vanguard total internatlbnd etf ivvanguard charlotte total intl bd index fd etf
+137,137,True,t rowe price international discovery fundt. rowe price international discovery
+138,138,True,united sts stl cp (new)united states stl corp new
+139,139,True,coca cola cococa-cola company
+140,140,True,spdr barclays high yield bond (jnk)spdr barclays capital high yield bond et
+141,141,True,vanguard smallcap index fundvanguard small-cap index fund institutional shares
+142,142,True,fidelity select utilities portfoliofid sel utilities
+143,143,True,select sector spdr trust the technology select sector spdr fundtechnology sector sp etf
+144,144,True,guggenheim s&p 500 equal we cons etfguggenheim s&p 500 equalwe cons etf
+145,145,True,visa inc class a sharesvisa inc cl a div: 0.560
+146,146,True,skyworks solutions inc comskyworks solutions inc
+147,147,True,alibaba group holding ltd spons adsalibaba group hldg adr fsponsored adr adr reps ord
+148,148,False,pimco income instlpimco incm inst cl
+149,149,True,vanguard growth index invvanguard growth index fund admiral shares
+150,150,True,canadian natl railway cocanadian natl ry co f
+151,151,True,first tr exchange traded fd dow jones internet index fdfirst tr exchange traded fd dow jones in
+152,152,False,vanguard total bond index admvanguard total bond market index i
+153,153,True,ishares gold trishares gold tr ishares
+154,154,True,oppenheimer developing markets y fundoppenheimer developing markets cl y
+155,155,False,vanguard total bond market index admvang tot bd mk is pl
+156,156,True,t. rowe price new incomeguidemark core fixed income
+157,157,False,vanguard mid-cap index fund institutional sharesvang midcap idx inst
+158,158,True,mfs international new discovery r5afs international growth & income fund cl f1
+159,159,True,fitbit incfitbit inc cl a
+160,160,False,vanguard growth index fund investor sharesvanguard growth index fd admiral share
+161,161,True,comcast corp (new) class a div: 1.100comcast corp cl a
+162,162,True,invesco diversified dividend investor clfidelity advisor diversified international fund cl c
+163,163,False,blackrock high yld bd port cl kblackrock high yield bond portfolio svc
+164,164,True,sina com ord (caym is)sina corporation com
+165,165,True,t.rowe price new horizons-tnew horizons fund
+166,166,True,vanguard value etf (vtv)vanguard value etf
+167,167,True,berkshire hathawayinc del cl b newberkshire hathawayinc
+168,168,True,schlumberger limited com usd0.01schlumberger ltd.
+169,169,True,union pacific corpunion pac corp com
+170,170,True,alps etf tr alerian mlpalps alerian mlp etf
+171,171,True,vanguard div growth fd investor shrsvanguard dividend growth fund investor shares
+172,172,True,tyson foods inc-cl a tsntyson foods inc class a
+173,173,False,american mutual fund-aamerican mutual fund cl a
+174,174,True,canadian national railwaycanadian natl railway company com
+175,175,True,deutsche x-trackers msci eafe hedged equity etfdeutsche x-trackers msci eafe equity etf
+176,176,False,vanguard total bond index admvanguard total bond market idx instl pls
+177,177,True,western digital corpwestern digital corp com
+178,178,True,ishares core msci emg mkts etfharding loevner emerg mrkts port adv
+179,179,False,pimco high income fd com shspimco high income fund
+180,180,False,ishares inc core msci emerging mkts etfharding loevner emerging mkts
+181,181,True,time warner inc comtime warner inc
+182,182,True,vanguard international growth fund admiralvanguard international growth fund admiral shares
+183,183,True,ishares trust core msci total intl stk etfishares core msci ttl int stk
+184,184,True,ishares iboxx invt gradebond etfishares iboxx $ invt grade corp bd
+185,185,True,interactive brokers group inc. cominteractive brokers class a
+186,186,True,adobe systemsadobe systems incorporated
+187,187,False,vang tot bd mkt admvanguard total bond market idx instl pls
+188,188,True,yandex nv comyandex n.v. com usd0.01 cl a
+189,189,False,vanguard small cap index - avanguard small-cap index fund inst
+190,190,True,sirius xm hldgs inc com isin #us5 sedol #bgldk10sirius xm hldgs inc com
+191,191,True,vanguard target retirement 203 fundvang target ret 2035
+192,192,True,communications sales&leas inc div: 2.400communications sales&leas inc com
+193,193,True,vanguard index fds vanguard total stk mkt etfus total stock market
+194,194,True,t. rowe price equity income fundt. rowe price equity income
+195,195,True,ishares tr core us aggt bd etfishares core us aggregate bond etf
+196,196,True,american funds europacific growthr3american funds europacific growth fund
+197,197,True,lazard emerging mkts eqty port opnlzrd emrg mkts eq o
+198,198,False,pimco income apimco income administrative
+199,199,True,american express coamerican express company
+200,200,True,taser internationaltaser intl inc del com
+201,201,False,vanguard short term tax exempt fd investor shrvanguard short-term tax-exempt fund investor shares
+202,202,True,ishares core msci emerging markets etfharding loevner emerg mrkts port adv
+203,203,True,vanguard institutional index fund institutional sharesvanguard institl index
+204,204,False,trp real estate advt rowe price real estate fund adv cl
+205,205,True,jp morgan chase & co comjpmorgan chase & co div: 1.760
+206,206,True,vanguard 500 index fund admira lvanguard 500 index fund admiral class
+207,207,True,dollar gen corp new comdollar general corp
+208,208,True,us silica holdings incu s silica hldgs inc com
+209,209,True,alphabet inc cap stk cl c cap stk cl calphabet inc cl c
+210,210,True,ishares msci usa min volility etfproshares short vix short term etf
+211,211,True,fidelity low-priced stockfid low priced stk
+212,212,False,vang st invstgrd invvanguard short-term invest-grade
+213,213,False,goldman sachs mangd futures strategy aaqr aqr mngd futures strategy i
+214,214,True,select sector spdr trust health care select indexhealth care select spdr fund
+215,215,True,metropolitan west fds total ret cl imetropolitan west tot ret bond
+216,216,True,chubb limited comchubb ltd
+217,217,True,vanguard ftse emerg mkts etfvanguard intl equity index fds ftse emerging mkts etf
+218,218,False,energy transfer partners uncheniere energy partners lp com
+219,219,False,baron partnersbaron partners fund
+220,220,True,prudential financial inc cmnprudential finl inc
+221,221,True,t rowe price retirement 2050 fundt. rowe price retirement 2050 fund
+222,222,True,templeton global bond class atempleton global bd r
+223,223,True,dominion resources inc va newdominion resources inc/va
+224,224,True,ishares tr core us aggt bd etfishares core u.s. aggregate
+225,225,True,citigroup inccitigroup inc new div: 0.200
+226,226,True,invesco comstock fund cl ainvesco comstock y
+227,227,True,oppen developing mkts aoppenheimer developing mkts fd cl a
+228,228,True,alphabet inc shs cl aalphabet inc voting
+229,229,True,national grid new adr each repr ord gbp0.11395national grid plc new spon adr
+230,230,True,ishares russell 3000 index etfishares russell 3000 etf
+231,231,True,titan international inc comtitan international inc
+232,232,True,proshares tr ii ultra bloomberg crude oiproshares ultra bloomberg crude oil etf
+233,233,False,ishares core msci emerging markets etfharding loevner emerging mkts
+234,234,False,vang tot bd mkt admvanguard total bond market index i
+235,235,False,mfs global total return fund cl amfs global total return cl a
+236,236,False,metropolitan west total return mmetropolitan west tot ret bond
+237,237,True,blckrck inflation protectblackrock inflation protected bond instl
+238,238,False,dfa real estate securities idfa real estate securities fund institutional class
+239,239,True,leucadia natl corp comleucadia national co
+240,240,False,pimco income fd ipimco income instl
+241,241,True,trp retirement 2045t. rowe price retirement 2045
+242,242,True,wal-mart stores inc com isin #us9311421039 sedol #2936921scana corp new com isin #us7 sedol #2545844
+243,243,True,oppenheimer developing market aoppenheimer developing mkts fd cl a
+244,244,False,nuveen high yield muni bond fund cl inuveen high yield municipal bond a
+245,245,False,vanguard short term invt grade admiralvanguard short-term investment-grade fund investor shares
+246,246,True,the growth fund of americaamer fds grwth fd amr a
+247,247,True,fireeye incfireeye inc com usd0.0001
+248,248,False,templeton global bond fund advisor classtempleton global bond fund adv cl
+249,249,True,ishares inc core msci emerging mkts etfharding loevner emerg mrkts port adv
+250,250,True,silver wheaton corp. adssilver wheaton corporation com npv isin #ca6 sedol #b058zx6
+251,251,True,dfa us small cap value prtf instldfa us sm cap value
+252,252,True,united states oil fund lp exchange-traded fundunited states oil fund lp unit
+253,253,False,pimco total return instlfund: pimco total return admin
+254,254,True,tesla motors inc comtesla motors inc.
+255,255,True,schwab short term us treasury etfschwab strategic tr short-term us treasury
+256,256,False,vanguard total bond index admvang tot bd mk is pl
+257,257,False,van small cap index admirvang sm cap idx inst
+258,258,True,facebook incorporated class afacebook inc cl a
+259,259,False,vanguard ext market index instvanguard extended market idx adm
+260,260,True,t. rowe price new horizonsnew horizons fund
+261,261,False,vanguard total bond market index fund admiral sharesvanguard bond index total mkt investor
+262,262,True,lloyds banking group plc div: 0.129lloyds banking group plc
+263,263,True,vbr:vanguard small-cap value etfvanguard small cap valueetf iv
+264,264,True,constellation brands inc cl aconstellation brand class a
+265,265,True,jp morgan chase & co comjp morgan chase & co
+266,266,False,pimco total return instlpimco total return fund instl cl
+267,267,True,ishares gold etfishares gold trust com
+268,268,True,schwab intl core equityschwab intl core eqty fd instl cl
+269,269,False,vanguard total bond market index-admiralvang tot bd mkt inst
+270,270,False,pimco total return instlpimco total return fund adm
+271,271,True,alibaba group hldg ltd sponsoralibaba group hldg ltd adr
+272,272,True,ishares russell 1000 growthrussell 1000 growth (ishares)
+273,273,True,walt disney codisney
+274,274,True,vanguard s&p 500 etf (voo)vanguard index fds s&p 500 etf
+275,275,True,ishares msci eafe min volatility etfishares trust msci eafe min volatil etf
+276,276,True,kraft heinz co comkraft heinz co div: 2.300
+277,277,False,metr w tot rtn bond cl mmetropolitan west tot ret bond
+278,278,True,berkshire hathaway cl-b newberkshire hathaway inc.
+279,279,True,momenta pharmaceuticalsmomenta pharmaceuticals inc com
+280,280,True,colgate palmolivecolgate palmolive co com
+281,281,True,ishares inc core msci emerging mkts etfishares msci emerging markets
+282,282,True,powershares qqq etfpowershares qqq trust sr etf
+283,283,False,vanguard small-cap index fund admiralvanguard small-cap index fund institutional shares
+284,284,True,corning inc cmcorning inc
+285,285,True,vereit inc reitvereit inc
+286,286,True,ishares core msci emerging div: 0.995ishares core msci emg mkts etf
+287,287,True,american funds europacific growth-r6american funds europacific growth fund class r-6
+288,288,True,national oilwell varco inc comnational-oilwell varco inc
+289,289,True,vanguard 500 index fund admiral sharesvnguard 500 index admiral shares
+290,290,True,facebook inc.facebook inc class a
+291,291,True,whole foods market incwhole foods markets inc div: 0.540
+292,292,True,bhp billiton plc - adrbhp billiton plc spons adr each rep ord usd0.50
+293,293,True,ishares russell 2000 growth etf ivishares russell 2000 grwth etf div: 1.243
+294,294,False,osterweis strategic income fundprofessionally mgd ptfl osterweis strategic inc fd
+295,295,True,vanguard small cap value etfvanguard small cap valueetf iv
+296,296,False,wa core plus bond iwestern asset core plus bond fd cl fi
+297,297,True,kraft heinz co div: 2.300kraft heinz co com
+298,298,True,nokia corp-spon adrnokia corp cls a adr (finnish)
+299,299,True,citrix systems inc.citrix systems inc
+300,300,True,devry education group inc div: 0.360devry education group
+301,301,False,vanguard gnma fund admiral sharesvanguard gnma fund investor share
+302,302,True,vanguard star investor classvanguard star fund investor shares
+303,303,False,vanguard total bond market index admvanguard total bond market index fund investor shares
+304,304,True,ishares gold trishares gold etf
+305,305,True,eaton corp plc comeaton corp plc f
+306,306,True,pepsico inc compepsico inc cmn
+307,307,True,wal-mart stores inc comwal-mart stores inc.
+308,308,True,whole foods mkt inc comwhole foods market
+309,309,True,american capital world growth and income fd aamerican capital world grth & inc a
+310,310,True,vanguard mid cap index fund - admiralvanguard mid cap index fund admiral class
+311,311,False,fidelity corporate bond fundbaird core plus bond inst
+312,312,False,spartan extended mkt index fid adv classspartan extended mkt index investor cl
+313,313,True,nxp semiconductors fnxp semiconductors n v
+314,314,True,columbia dividend incomecol dividend inc z
+315,315,False,vanguard sml-cap ind-admvanguard small-cap index fund admiral
+316,316,True,vanguard index 500 portvanguard 500 index fund-inv
+317,317,True,baidu inc fadr adr reps 0.1 ord shsbaidu inc sponsored adr repstg ord shares class a
+318,318,True,delaware value fund institutionaldelaware value cl a
+319,319,False,vanguard total bond market index fund admiral sharesvanguard total bond market index inv
+320,320,True,arista networks incarista networks inc com usd0.0001
+321,321,True,ishares 1-3 yr treasury bnd etfishares 1-3 yr treasury bnd et f
+322,322,True,united sts oil fd lp unitsunited states oil fund lp exchange-traded fund
+323,323,False,pimco income fund cl ppimco fds income instl
+324,324,True,diageo plc fadr adr reps ord shsdiageo p l c spon adr new
+325,325,True,harbor capital appreciation instlharbor capital appreciation
+326,326,True,price t rowe group inc com isin #us74144t1088 sedol #2702337c h robinson worldwide inc com new isin #us8 sedol #2116228
+327,327,True,ishares s&p midcap fundishares core s&p mid capetf
+328,328,False,pimco total return cl afund: pimco total return admin
+329,329,True,johnson and johnsonjohnson and johnson com
+330,330,True,ishares msci cda etfishares msci canada index
+331,331,True,carnival corp comcarnival corp f
+332,332,True,priceline grouppriceline grp inc com new
+333,333,True,westport innovation fwestport innovations inc
+334,334,True,wisdomtree emerging markets high dividend fund etfwisdomtree emrg mrkt hg div etf
+335,335,True,d.r. horton incd r horton co
+336,336,False,vanguard total bond market index admvanguard total bond market idx instl pls
+337,337,True,ishares 7-10 year treas bond etfishares barclays 7-10 year treasury bond
+338,338,False,vanguard total bond market index-admiralvanguard total bond market index fund institutional plus shares
+339,339,False,vanguard sml-cap ind-admvanguard small-cap index fund institutional shares
+340,340,False,vanguard interm-term investment-grde admvanguard intermediate term inv gr fd inv cl
+341,341,True,teva pharmaceuticals adrteva pharmaceuticals ind ltd israel adr
+342,342,True,dfa intl small cap value cl idfa intl small cap value port instl
+343,343,True,prudential financial inc div: 2.800prudential finl inc
+344,344,False,af bond fd amer r6the bond fund of america-a
+345,345,True,allergan plcallergan plc f
+346,346,True,vale savale s a adr
+347,347,True,vanguard short-term corporate bond etfvanguard short-term corporate bond
+348,348,True,vanguard index fds vanguard small cap growth vipers formerlyvanguard small-cap grwth etf
+349,349,True,vanguard short-term bondetfvanguard short term etf
+350,350,False,goldman sachs mgd futures strat aaqr mgd futures strat fd cl i
+351,351,False,vanguard total bond index admvanguard total bond market index fund investor shares
+352,352,True,xinyuan real estate comxinyuan real estate co ltd spon adr
+353,353,True,ishares core u.s. aggregate bond etfishares core total us bond market etf
+354,354,True,devon energy corpdevon energy corporation (new) cmn
+355,355,True,berkshire hathaway class bberkshire hathawayinc
+356,356,True,vanguard reit index investorvanguard reit index inv
+357,357,True,markel corp hldg comarkel corp
+358,358,True,vanguard high-yield corporate fund investor sharesvanguard high yield corp fund admiral share
+359,359,True,oneok inc new div: 2.460oneok inc cm (new)
+360,360,True,iron mtn inc new com div: 1.940iron mtn inc reit
+361,361,True,howard hughes corp comhoward hughes corp
+362,362,False,af bond fd amer r6the bond fund of america
+363,363,True,kraft heinz cokraft heinz co div: 2.300
+364,364,True,costco wholesale crp delcostco wholesale co
+365,365,True,first trust amex biotechnology index fundfirst trust nyse arca biotechnology index fund
+366,366,True,american tower corporation isin #us0 sedol #b7fbfl2american tower corp reit
+367,367,True,the growth fund of americathe growth fund of america-529a (1005)
+368,368,True,priceline group inc compriceline group inc
+369,369,False,pimco total return fund instl cltotal return fund (pimco)
+370,370,True,southwest gas corp.southwest gas corp div: 1.800
+371,371,True,vanguard dividend growth fund investor sharesvanguard dividend growth fund
+372,372,True,j p morgan chase & cojpmorgan chase & co div: 1.760
+373,373,True,merck & company inc newmerck & co inc new
+374,374,False,pimco incm cl dpimco income fd i
+375,375,False,vanguard fixed income secs inter term invt grade fd admiral clvanguard intermediate term inv gr fd inv cl
+376,376,True,vanguard growth index fund investor sharesvanguard growth index admiral
+377,377,True,guggenheim bulletshares 2018guggenheim bulletshares 2018 high yield corp bd
+378,378,False,vanguard total bond market div: 2.009vanguard total bond mkt
+379,379,True,blackhawk network hldgs inc cl ablackhawk netwk hldgs inc
+380,380,False,vanguard balanced index fd inv cl shrsvanguard balanced index fund admiral shares
+381,381,True,vanguard mid-cap value index fundvanguard mid-cap value etf
+382,382,True,ishares tr natl mun bd etf fdishares nationl amt freemuni etf
+383,383,True,bank amer corp combank of america corp.
+384,384,True,russell 1000 growth (ishares)ishares russell 1000 grw etf div: 1.363
+385,385,True,american fd growth fd of america cl aamer fds grwth fd amr a
+386,386,True,ishares us real estate etfishares u s real estate etf
+387,387,True,dfa emerging markets portfoliodfa emrging markets
+388,388,True,alphabet inc-cl aalphabet inc. class a
+389,389,True,raytheon co (new) div: 2.680raytheon co com
+390,390,True,charles schwab newschwab charles corp new
+391,391,True,alibaba group holding ltalibaba group hldg ltd sponsor
+392,392,True,oakmark international ioakmark fds oakmark intl
+393,393,True,mastercard incorporated cmn class amastercard inc-class a
+394,394,True,kimberly-clark corpkimberly-clark corp.
+395,395,True,ishares 7-10 yr treasry bd etf div: 1.973ishares barclays 7-10 year treasury bond
+396,396,False,vanguard small-cap index fund admiral sharesvanguard small-cap index fund inst
+397,397,True,foot locker inc com isin #us9 sedol #2980906foot locker inc com isin #us3448491049 sedol #2980906
+398,398,False,vanguard ttl bond mkt idx admvanguard total bond market index inv
+399,399,True,chesapeake energy corporation oklahomachesapeake energy corp
+400,400,True,charles schwab corporation cmnschwab charles corp new
+401,401,True,vanguard intl equity index fds ftse all world ex usa small cap index fd etf shsvanguard ftse all world ex us small cap etf
+402,402,True,chicago bridge & iron co nvchicago bridge & iron company n.v. eur0.01 reg
+403,403,True,amer fds grwth fd amr aamerican gr fd of america a
+404,404,False,amg managers real estate securities fundamg managers real estate securities fd
+405,405,True,american new perspective class anew perspective fund cl a
+406,406,True,lloyds banking group plc sp adrlloyds banking group plc div: 0.129
+407,407,True,vanguard 500 idx admvanguard s&p 500 index - a
+408,408,False,vanguard total bond market index admiralvanguard total bond market index fund institutional shares
+409,409,True,j p morgan chase & cojp morgan chase & co
+410,410,True,halliburton co hldghalliburton company
+411,411,True,guggenheim bulletshares 2018 high yield corp bdclaymore exchange traded fd trust guggenheim bltshrs 2018 high yld cp bd
+412,412,True,ishares russell 2000 value etfishares russell 2000 value etf iv
+413,413,False,pimco total return atotal return fund (pimco)
+414,414,True,vanguard index fds vanguard reit etf formerly vanguard index tr to 05/24/01 reit viper shsvanguard index fds vanguard reit etf formerly vanguard index
+415,415,True,powershares emrg mkts sovrgn dbt etfpowershares emerging markets sovereign d
+416,416,False,vang tot bd mkt admvanguard total bond market index
+417,417,True,arena pharmaceuticals inc comarena pharmaceuticals
+418,418,True,nokia corp spon adr f1 adr rep nokia corpsnokia corp sponsored adr
+419,419,False,vanguard value index fund admiral sharesvanguard value index fund institutional shares
+420,420,True,vanguard total int bd idx etfvanguard charlotte total intl bd index fd etf
+421,421,False,pimco total ret fd instlpimco total return r
+422,422,True,intl business machinesintl business mach
+423,423,True,harbor international fundharbor international
+424,424,True,vanguard intl bond index etfvanguard total internatlbnd etf iv
+425,425,False,vanguard extended market index institutional classvang ext mkt idx ins
+426,426,True,caterpillar inc delcaterpillar inc
+427,427,True,visa inc com cl asalesforce.com inc com
+428,428,False,pimco total return admintotal return fund (pimco)
+429,429,True,pepsico inc.pepsico inc nc div: 2.810
+430,430,True,powershares fin pfd portfolipowershares etf financial pfd portfolio
+431,431,True,fid sel biotechfidelity select biotechnology
+432,432,True,arcelormittal sa luxembourg ny registry sh isin #us4 sedol #b295f26arcelormittal sa (luxembourg)
+433,433,True,realty incm corp reitrealty income corporation com
+434,434,True,vanguard total international stock index fund admiral sharesvanguard ttl intl stk ind adm
+435,435,True,c h robinson worldwide inc com new isin #us8 sedol #2116228c.h. robinson worldwide inc
+436,436,True,sprint corp shs series -sprint corp
+437,437,True,google inc cl calphabet inc cap stk cl c
+438,438,True,templeton glbal bond advtempleton global bond adv
+439,439,True,apollo investments corp comapollo invt corp com
+440,440,False,sptn us bond idx isspartan us bond indx fidelity adv class
+441,441,True,ishares inc msci emrg mkts min volatility etfishares msci markets minvol etf
+442,442,False,vanguard total bond market index admiralvanguard total bond market idx-adm
+443,443,True,southwest gas corp div: 1.800southwest gas corp
+444,444,True,vanguard ftse developd mkt etfvanguard ftse dev markets etf
+445,445,True,spdr nuveen barclays muni bond etfspdr nuveen barclays muni
+446,446,True,dodge & cox interntl stockdodge & cox international stock
+447,447,True,alexion pharms incalexion pharmaceuticals inc
+448,448,False,vanguard total bond market idx-admvanguard ttl bnd mrk indx inst
+449,449,True,general mtrs cogeneral motors co.
+450,450,True,zoes kitchen inc com isin #us7 sedol #bl95n36zoes kitchen inc com
+451,451,False,loomis sayles bond fund cl iloomis sayles mlti-asset inc a
+452,452,True,athenahealth inc delawareathenahealth inc
+453,453,True,ishares silver trust etfishares silver shares
+454,454,True,emerging marketsharding loevner emerging mkts
+455,455,True,markel corp hldg comarkel corp holding company
+456,456,True,ameriprise financial incameriprise finl inc
+457,457,True,vanguard malvern fds etfvanguard short term inflation protected
+458,458,True,alibaba group hldg limited sponsored adsalibaba group hldg adr fsponsored adr adr reps ord
+459,459,False,american funds american hi inc tr r3american high-income trust
+460,460,True,first eagle global ifirst eagle global fund cl i
+461,461,True,van mid cap index adm m4940vanguard mid cap index
+462,462,True,chesapeake energy corpchesapeake energy corp com
+463,463,True,starbucks corp. cmnstarbucks corp washington div: 0.800
+464,464,True,mc donalds corp div: 3.560mcdonalds corp
+465,465,True,american funds europacifc r3american funds europacific r3
+466,466,True,block h & r incblock h&r inc
+467,467,True,vanguard ftse developed mkts etfvanguard ftse developed market etf
+468,468,False,vang tot bd mkt admvang tot bd mk is pl
+469,469,False,pimco investment grade corporate bond fund - class afidelity conservativ income bond fd cl i
+470,470,True,vanguard mid cap index fund - admiralvanguard mid cap index fd
+471,471,False,vanguard intrmd-term bond index admvanguard inter-term bond index port inv
+472,472,True,infinera corporation com isin #us1 sedol #b1yb5y4infinera corp com
+473,473,True,vanguard crsp us small cap indexvanguard small cap etf
+474,474,True,oneok partners lp lponeok partners l p unit ltd partnership
+475,475,False,american mutual fundamerican fd american mutual fd cl f2
+476,476,True,american funds europacific growth-r5american europacific growth
+477,477,False,vang tot bd mkt admvanguard ttl bnd mrk indx inst
+478,478,False,breitburn energy partners lp cbreitburn energy partners lp com
+479,479,True,new york community bancorp inc.new york community
+480,480,False,pimco income instlpimco income administrative
+481,481,True,select sector spdr trust technology select indexsector spdr tr shs ben int technology
+482,482,False,vanguard ttl bond mkt idx admvanguard bond index total mkt investor
+483,483,False,tmpl global bond atempleton global bond fund r
+484,484,True,ishares 20+ year treasury boishares 20+ year
+485,485,False,vang sm cap idx admvnguard index trust small cap idx instl
+486,486,True,linkedin corp class alinkedin corp-a
+487,487,True,primecap odyssey stockprimecap odyssey stock fund
+488,488,True,time warner inctime warner inc com new
+489,489,False,vanguard total bond market index-admiralvanguard total bond market index fund institutional plus
+490,490,True,marathon pete corporationloews corporation div: 0.250
+491,491,False,ishares core msci emerging etfharding loevner emerging mkts
+492,492,False,vanguard short term tax exempt admiral sharevanguard short-term tax-exempt fund investor shares
+493,493,True,ford motor comford mtr co
+494,494,True,vanguard ftse all world ex us etfvanguard ftse all-world ex-u
+495,495,True,vmware inc cl a comvmware inc.
+496,496,True,royal dutch shell plc spons adr aroyal dutch shell plc sponsored adr repstg a shs
+497,497,True,spdr nuveen barclays municipal bond etfspdr nuveen barclays capital m div: 0.556
+498,498,True,united parcel service cl bunited parcel service inc cl b
+499,499,True,vang smcp gr idx admvanguard small cap growth index admiral
+500,500,True,novo-nordisk a s adrnovo-nordisk a s adr isin #us6 sedol #2651202
+501,501,True,fidelity mass muni incomenuveen equity premium income
+502,502,True,ishares russell mid-cap value etfishares russell mid cap value etf iv
+503,503,True,yamana gold inc cmnyamana gold inc com
+504,504,False,vanguard total bond market idx-admvanguard total bond market idx instl pls
+505,505,True,otter tail corp comotter tail corporation cmn
+506,506,True,sptn intl index inssptn intl index adv
+507,507,True,cnooc ltd. adr (sponsored)cnooc limited adr fsponsored adr adr rep 100 cl h ord
+508,508,True,eaton vance global macro abs ret aeaton vance global macro abslte rt cl a
+509,509,True,dfa u s small cap value cl idfa us small cap value prtf instl
+510,510,True,sears canada inc (canada)sears cda inc
+511,511,True,at&t inc com isin #us00206r1023 sedol #2831811franklin res inc com isin #us8 sedol #2350684
+512,512,True,vanguard total international bond index etfvanguard total international bond et
+513,513,True,wisdomtree japan hedged equity -wisdomtree japan hedged eq
+514,514,True,templeton global bond fund advisor classtempleton glbal bond adv
+515,515,True,trp health sciencest. rowe price health sciences fund
